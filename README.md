@@ -122,8 +122,8 @@ dependency injection eliminate much of the code you would otherwise have to
 write.
 
 - [Basics](https://egghead.io/articles/new-to-angularjs-start-learning-here)
-- [Complete DOcumentation](https://docs.angularjs.org/api)
-- [Resources List](https://github.com/jmcunningham/AngularJS-Learning)
+- [Complete Documentation](https://docs.angularjs.org/api)
+- [Resource List](https://github.com/jmcunningham/AngularJS-Learning)
 
 ### Angular.js v1 Knowledge Meter
 
